@@ -105,3 +105,62 @@ The dataset contains:
 
 ## 📷 Output
 The model predicts movie ratings based on movie features.
+
+# 🌸 Iris Flower Classification
+
+## 📌 Project Overview
+This project classifies Iris flowers into three species:
+- Iris-setosa
+- Iris-versicolor
+- Iris-virginica
+
+using Machine Learning algorithms based on flower measurements.
+
+The project demonstrates:
+- Data Analysis
+- Data Preprocessing
+- Classification Modeling
+- Prediction & Evaluation
+
+---
+
+## 🚀 Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+---
+
+## 📊 Machine Learning Algorithm
+- Logistic Regression
+
+---
+
+## 📁 Dataset
+The dataset contains:
+- Sepal Length
+- Sepal Width
+- Petal Length
+- Petal Width
+- Species
+
+---
+
+## ⚙️ Project Workflow
+
+1. Import Dataset
+2. Data Cleaning
+3. Feature Selection
+4. Train-Test Split
+5. Model Training
+6. Prediction
+7. Accuracy Evaluation
+
+---
+
+## 📷 Output
+The model predicts the species of Iris flowers based on flower measurements.
+
+---
