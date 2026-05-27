@@ -48,3 +48,60 @@ Matplotlib
 Seaborn
 Scikit-learn
 Environment: Jupyter Notebook
+
+# 🎬 Movie Rating Prediction With Python
+
+## 📌 Project Overview
+This project predicts movie ratings using Machine Learning regression techniques based on features like genre, director, actors, and historical movie data.
+
+The project demonstrates:
+- Data Analysis
+- Data Preprocessing
+- Feature Engineering
+- Regression Modeling
+- Prediction & Evaluation
+
+---
+
+## 🚀 Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+---
+
+## 📊 Machine Learning Algorithm
+- Linear Regression
+
+---
+
+## 📁 Dataset
+The dataset contains:
+- Movie Name
+- Genre
+- Director
+- Actors
+- Duration
+- Votes
+- Rating
+
+---
+
+## ⚙️ Project Workflow
+
+1. Import Dataset
+2. Data Cleaning
+3. Handling Missing Values
+4. Encoding Categorical Features
+5. Feature Selection
+6. Train-Test Split
+7. Model Training
+8. Prediction
+9. Accuracy Evaluation
+
+---
+
+## 📷 Output
+The model predicts movie ratings based on movie features.
